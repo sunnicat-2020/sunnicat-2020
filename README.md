@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sunni !cat!
+- 👀 I’m interested in coco coding!
+- 🌱 I’m currently learning javascript, node.js!!
